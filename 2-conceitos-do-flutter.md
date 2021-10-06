@@ -12,4 +12,4 @@
     - Widgets
   - Código Dart.
 - O código em Dart é convertido para nativo em determinada plataforma e este trabalho é feito pelo Flutter SDK.
-- Flutter não usa Widgets nativos, ele faz uma implementação própria desenhando cada pixel.
+- Flutter não usa Widgets nativos, ele faz uma implementação própria desenhando cada pixel numa taxa de atualização de 60FPS(frames por segundo).
